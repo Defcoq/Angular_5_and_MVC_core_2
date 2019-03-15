@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JPPQUIZ21", "JPPQUIZ21\JPPQUIZ21.csproj", "{FF1BD303-315D-4E69-8063-FC73D5906155}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF1BD303-315D-4E69-8063-FC73D5906155}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF1BD303-315D-4E69-8063-FC73D5906155}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF1BD303-315D-4E69-8063-FC73D5906155}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF1BD303-315D-4E69-8063-FC73D5906155}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1B7249E-8E2E-45CA-9A9C-6697A7B37614}
+	EndGlobalSection
+EndGlobal
